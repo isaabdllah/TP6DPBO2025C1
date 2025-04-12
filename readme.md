@@ -82,10 +82,10 @@ Program ini dirancang menggunakan paradigma pemrograman berorientasi objek (OOP)
 
 ### Screenshot
 **Menu Utama**  
-![alt text](image.png)
+![alt text](Screenshots/image.png)
 
 **Gameplay**  
-![alt text](image-1.png)
+![alt text](Screenshots/image-1.png)
 
 **Game Over**  
-![alt text](image-2.png)
+![alt text](Screenshots/image-2.png)
